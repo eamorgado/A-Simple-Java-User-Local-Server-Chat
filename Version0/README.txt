@@ -3,7 +3,6 @@
 ****Ano letivo: 2017/2018							   |
 ****Realizado por:								   |
 	Eduardo Alexandre Pereira Magalhães da Costa e Morgado, up201706894, MIERSI|
-	Sónia Rafaela Costa da Rocha, up201704679, MIERSI			   |
 										   |
 --------------------*******************************************--------------------
 
@@ -40,8 +39,7 @@ javac ficheiro.java
 
 Em caso de dúvida ou falha no sistema, favor contactar:
 	up201706894@fc.up.pt
-	up201704679@fc.up.pt
-
+	
 Versão 0.1
 
 
